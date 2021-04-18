@@ -32,9 +32,9 @@ address, and a detailed description of its architectural significance.
 should be display
 ---
 ### The following screenshot shows a example run of the app
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715200.png" width="250">
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715364.png" width="250">
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715310.png" width="250">
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715370.png" width="250">
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715659.png" width="250">
-<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715672.png" width="250">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618717513.png" width="350">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715364.png" width="350">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715310.png" width="350">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715370.png" width="350">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715659.png" width="350">
+<img src="https://github.com/allanzguan/WalkingTour/blob/main/screenshot/Screenshot_1618715672.png" width="350">
